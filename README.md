@@ -7,7 +7,6 @@
 - 💻 Skills: Construção de softwares básicos em C, programação Orientada a Objetos, Desenvolvimento Front-End.
 -->
 
-# Mateus Matos Leonardo
+# Mateus Matos Leonardo  👨‍💻 
 
-[![Linkedin Badge] https://www.linkedin.com/in/mateus-matos-1a24381bb/
 
