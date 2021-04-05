@@ -11,3 +11,7 @@
 
 ![Mateus Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatosleonardo&theme=dark&show_icons=true)
 
+Como me encontrar 👇 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusmatosleonardo/)](https://www.linkedin.com/in/mateus-matos-1a24381bb/)
+
