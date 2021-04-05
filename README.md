@@ -9,8 +9,4 @@
 
 # Mateus Matos Leonardo  👨‍💻 
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-<br>
-  
-</details>  
+![Mateus Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus&theme=dark&show_icons=true)
