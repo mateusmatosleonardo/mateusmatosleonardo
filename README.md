@@ -9,4 +9,4 @@
 
 # Mateus Matos Leonardo  👨‍💻 
 
-![Mateus Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus&theme=dark&show_icons=true)
+![Mateus Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus&theme=dark&show_icons=true)
