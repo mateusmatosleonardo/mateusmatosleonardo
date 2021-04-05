@@ -11,11 +11,15 @@
 
 ![Mateus Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatosleonardo&theme=dark&show_icons=true)
 
+### Cursando Ciências da Computação
+
 Como me encontrar 👇 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusmatosleonardo/)](https://www.linkedin.com/in/mateus-matos-1a24381bb/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateusmatosleonardo)](https://github.com/mateusmatosleonardo)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mateusmatosleonardo)](https://twitter.com/m4teusmatos)
+<div>
+<a href = "mailto: m4teusmatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-matos-1a24381bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/m4teusleonardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 
