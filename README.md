@@ -9,4 +9,8 @@
 
 # Mateus Matos Leonardo  👨‍💻 
 
-
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+<br>
+  
+</details>  
