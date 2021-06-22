@@ -10,8 +10,6 @@
 # Mateus Matos Leonardo  👨‍💻 
 
 ![Mateus Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatosleonardo&theme=dark&show_icons=true)
-<img height="195em" width = "450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmatosleonardo&layout=compact&langs_count=16&theme=dark&show"/>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
