@@ -8,8 +8,18 @@
 -->
 
 # Mateus Matos Leonardo  👨‍💻 
+My name is Mateus, and I'm a computer science student. 
 
+### 🤞 "I'm the product of my decisions" 🧠
+
+- 👨‍🎓 Computer science 6º semester
+- 📐 Front-end developer
+- 📝 Teacher in spare time
+
+### Skills and knowledge 👇
+<!--
 ![Mateus Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmatosleonardo&theme=dark&show_icons=true)
+-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +29,8 @@
 </div>
 
   ##
+  
+ 
   
 <div>
 <a href = "mailto: m4teusmatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
