@@ -13,8 +13,6 @@ My name is Mateus, and I'm a computer science student.
 ### 🤞 "I'm the product of my decisions" 🧠
 
 - 👨‍🎓 Computer science 7º semester
-- 📐 Front-end developer
-- 📝 Teacher in spare time
 
 ### Skills and knowledge 👇
 <!--
