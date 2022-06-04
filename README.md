@@ -12,6 +12,7 @@ My name is Mateus, and I'm a computer science student.
 
 ### 🤞 "I'm the product of my decisions" 🧠
 
+- 👨‍💻 Mobile Develop (pleno)
 - 👨‍🎓 Computer science 7º semester
 
 ### Skills and knowledge 👇
