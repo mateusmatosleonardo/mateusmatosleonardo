@@ -8,12 +8,12 @@
 -->
 
 # Mateus Matos Leonardo  👨‍💻 
-My name is Mateus, and I'm a computer science student. 
+My name is Mateus and I'm a computer science student. 
 
 ### 🤞 "I'm the product of my decisions" 🧠
 
-- 👨‍💻 Mobile Develop (pleno)
-- 👨‍🎓 Computer science 7º semester
+- 👨‍💻 Front-End Developer
+- 👨‍🎓 Computer science 8º semester
 
 ### Skills and knowledge 👇
 <!--
