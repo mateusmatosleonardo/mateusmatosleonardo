@@ -40,7 +40,6 @@ My name is Mateus and I'm a computer science student.
  -->
   <!--
  ##
- 
 <div>
 <a href = "mailto: m4teusmatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-matos-1a24381bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
