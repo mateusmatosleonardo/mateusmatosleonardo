@@ -12,9 +12,9 @@ My name is Mateus and I'm a computer science student.
 -->
 ### Hello 👋
 <strong>A little about myself</strong>
-- 🧑🏻 Front-end engineer for more than 3 years
+- 🧑🏻 I've been working with software development for almost 4 years
 - 👨🏻‍🎓 I'm on the final step towards majoring in computer science
-- 💼 I founded a small IT company: Quality Softwares
+- 💼 Currently working as a mobile engineer - React Native
 - 📫 Contact me by my email: m4teusleonardo@gmail.com
 - 🌱 Hobbies: music, books, technologies, exercise, games, movies and series
 <!--
