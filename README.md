@@ -10,6 +10,7 @@
 # Mateus Leonardo 
 My name is Mateus and I'm a computer science student. 
 -->
+
 ### Hello 👋
 <strong>A little about myself</strong>
 - 🧑🏻 I've been working with software development for almost 4 years
