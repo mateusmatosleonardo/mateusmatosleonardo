@@ -13,7 +13,6 @@ My name is Mateus and I'm a computer science student.
 
 ### Olá 👋
 <p style="padding-top: 100px;">Sou um desenvolvedor de software com mais de 4 anos de experiência e quase formado em ciência da computação. Atualmente, trabalho com desenvolvimento full stack.</p>
-<img src="https://github.com/user-attachments/assets/411bcad7-9dc9-4815-90ed-7f8a2d54564e" " height="200" />
 <p>Adoro animes, mangás e jogos. Quer bater um papo? Me mande um e-mail: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
 
 <!--
