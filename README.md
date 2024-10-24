@@ -15,6 +15,20 @@ My name is Mateus and I'm a computer science student.
 <p style="padding-top: 100px;">Sou um desenvolvedor de software com mais de 4 anos de experiência e quase formado em ciência da computação. Atualmente, trabalho com desenvolvimento full stack.</p>
 <p>Adoro animes, mangás e jogos. Quer bater um papo? Me mande um e-mail: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
 
+<h4>Minha stack:</h4>
+<div>
+    <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+    <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Mateus-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+    <img align="center" alt="Mateus-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Mateus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Mateus-Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
+    <img align="center" alt="Mateus-Railway" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
+</div>
+
 <!--
 ### Hello 👋
 <strong>A little about myself</strong>
