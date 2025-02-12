@@ -24,6 +24,7 @@ My name is Mateus and I'm a computer science student.
     <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Mateus-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
     <img align="center" alt="Mateus-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Mateus-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
     <img align="center" alt="Mateus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Mateus-Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
     <img align="center" alt="Mateus-Railway" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
