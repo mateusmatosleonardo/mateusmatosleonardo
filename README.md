@@ -30,7 +30,7 @@ My name is Mateus and I'm a computer science student.
     <img align="center" alt="Mateus-Railway" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
 </div>
 
-<!--
+<!-- 
 ### Hello 👋
 <strong>A little about myself</strong>
 <div style="display: flex; align-items: center;">
