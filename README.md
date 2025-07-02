@@ -11,9 +11,9 @@
 My name is Mateus and I'm a computer science student. 
 -->
 
-### Olá 👋
-<p style="padding-top: 100px;">Sou um desenvolvedor de software com mais de 4 anos de experiência e quase formado em ciência da computação. Atualmente, trabalho com desenvolvimento full stack.</p>
-<p>Adoro animes, mangás e jogos. Quer bater um papo? Me mande um e-mail: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
+### Hi 👋
+<p style="padding-top: 100px;">I'm a software developer with over 4 years of experience and almost graduated in Computer Science. Currently, I work with full stack development.</p>
+<p>I love anime, manga, and games. Want to chat? Send me an email: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
 
 <h4>Minha stack:</h4>
 <div>
