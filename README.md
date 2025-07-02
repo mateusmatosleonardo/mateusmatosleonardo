@@ -15,7 +15,7 @@ My name is Mateus and I'm a computer science student.
 <p style="padding-top: 100px;">I'm a software developer with over 4 years of experience and almost graduated in Computer Science. Currently, I work with full stack development.</p>
 <p>I love anime, manga, and games. Want to chat? Send me an email: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
 
-<h4>Minha stack:</h4>
+<h4>Tech Stack:</h4>
 <div>
     <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
