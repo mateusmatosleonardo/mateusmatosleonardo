@@ -10,6 +10,7 @@
 # Mateus Leonardo 
 My name is Mateus and I'm a computer science student. 
 -->
+<!-- COMMENT -->
 
 ### Hi 👋
 <p style="padding-top: 100px;">I'm a software developer with over 6 years of experience and almost graduated in Computer Science. Currently, I work with full stack development.</p>
