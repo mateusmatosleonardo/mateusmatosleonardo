@@ -12,23 +12,30 @@ My name is Mateus and I'm a computer science student.
 -->
 
 ### Hi 👋
-<p style="padding-top: 100px;">I'm a software developer with over 4 years of experience and almost graduated in Computer Science. Currently, I work with full stack development.</p>
+<p style="padding-top: 100px;">I'm a software developer with over 6 years of experience and almost graduated in Computer Science. Currently, I work with full stack development.</p>
 <p>I love anime, manga, and games. Want to chat? Send me an email: ✉️ <a href ="">m4teusleonardo@gmail.com.</a></p>
 
 <h4>Tech Stack:</h4>
-<div>
-    <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
-    <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Mateus-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-    <img align="center" alt="Mateus-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <!-- <img align="center" alt="Mateus-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"> -->
-    <img align="center" alt="Mateus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <!-- <img align="center" alt="Mateus-Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg"> -->
-    <img align="center" alt="Mateus-Railway" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
-</div>
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,kotlin,html,css,react,nextjs,nodejs,nestjs,express,fastapi,postgres,mysql,docker,linux" />
+  </a>
+</p>
+<!-- <p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  </a>
+</p> -->
+<!-- <p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
+  </a>
+</p> -->
+<!-- <p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux" />
+  </a>
+</p> -->
 
 <!-- 
 ### Hello 👋
